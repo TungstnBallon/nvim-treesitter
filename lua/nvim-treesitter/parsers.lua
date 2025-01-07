@@ -1110,6 +1110,15 @@ list.javascript = {
   maintainers = { "@steelsojka" },
 }
 
+list.jayvee = {
+  install_info = {
+    url = "https://github.com/jvalue/tree-sitter-jayvee",
+    revision = "3106c29e629f100fe5e4d3345bb848481b5e0ea5",
+  },
+  maintainers = { "@tungstnballon" },
+  tier = 3,
+}
+
 list.jq = {
   install_info = {
     url = "https://github.com/flurie/tree-sitter-jq",
